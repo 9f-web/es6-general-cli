@@ -6,7 +6,7 @@ const confirm = require('../lib/confirm');
 exports.command = 'init <template> [path]';
 exports.desc = 'init template';
 exports.handler = function (argv) {
-  console.log(argv);
+  // console.log(argv);
   argv.path = argv.path || '.';
   const pwd = process.cwd();
   argv.destPath = path.join(pwd, argv.path);
