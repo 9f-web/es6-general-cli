@@ -1,4 +1,4 @@
-# es6-general-cli
+# general-es6-cli
 
 A simple CLI for scaffolding Web projects.
 
@@ -9,7 +9,7 @@ A simple CLI for scaffolding Web projects.
 Prerequisites(先决条件): [Node.js](https://nodejs.org/en/) (>=6.x) , npm version 3+ and [Git](https://git-scm.com/).
 
 ``` bash
-$ npm install -g es6-general-cli
+$ npm install -g general-es6-cli
 ```
 
 ### Usage(使用)
@@ -26,7 +26,7 @@ $ es6 init react my-project
 ```
 ### Custom Templates(客户模板)
 
-It's unlikely to make everyone happy with the official templates. You can simply fork an official template and then use it via `es6-general-cli` with:
+It's unlikely to make everyone happy with the official templates. You can simply fork an official template and then use it via `general-es6-cli` with:
 
 如果您不满意官方的模板，您只需要fork一个官方的模板，然后通过以下方式使用：
 ``` bash

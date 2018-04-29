@@ -1,8 +1,8 @@
 {
-  "name": "es6-general-cli",
+  "name": "general-es6-cli",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/9f-web/es6-general-cli.git"
+    "url": "git+https://github.com/9f-web/general-es6-cli.git"
   },
   "version": "1.0.0",
   "description": "Simple CLI for scaffolding Web projects",
@@ -30,9 +30,9 @@
     "yargs": "^6.5.0"
   },
   "bugs": {
-    "url": "https://github.com/9f-web/es6-general-cli/issues"
+    "url": "https://github.com/9f-web/general-es6-cli/issues"
   },
-  "homepage": "https://github.com/9f-web/es6-general-cli#readme",
+  "homepage": "https://github.com/9f-web/general-es6-cli#readme",
   "devDependencies": {},
   "keywords": ["react", "vue", "es6", "webpack"]
 }
