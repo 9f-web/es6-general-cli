@@ -22,7 +22,7 @@ $ es6 init <模板名称> <项目名称>
 Example:
 
 ``` bash
-$ es6 init react my-project
+$ es6 init react-template my-project
 ```
 ### Custom Templates(客户模板)
 
